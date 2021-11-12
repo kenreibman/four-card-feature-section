@@ -86,6 +86,7 @@ body {
   min-height: 100vh;
   text-rendering: optimizeSpeed;
   line-height: 1.5;
+  background-color: var(--very-light-gray);
 }
 
 .wrapper {
@@ -130,6 +131,7 @@ h2 {
 
 /* CONTAINER STYLING */
 .container {
+  background-color: white;
   width: 350px;
   height: 250px;
   box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px,
